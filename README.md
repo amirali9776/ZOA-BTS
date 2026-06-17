@@ -1,9 +1,11 @@
-
 # ZOA-BTS
-Official MATLAB and Python source code for the Zahhak Optimization Algorithm (ZOA) and the Buzjani Tiling Strategy (BTS) local refinement module
-
-
+Official MATLAB and Python code for the Zahhak Optimization Algorithm: A Memetic Geometric Buzjani Tiling Strategy for Engineering and IoT with Wireless Sensor Network Validation paper
+# Zahhak Optimization Algorithm
+A population-based metaheuristic inspired by Persian mythology. It elegantly balances global exploration and local convergence using an adaptive nonlinear control mechanism, making it highly efficient for solving complex engineering problems under strict computational budgets.
 # Buzjani Tiling strategy
-
-Buzjani Tiling Strategy (BTS), Derived from the treatises of Persian mathematician Abul-Wafa Buzjani, BTS functions as a lightweight, grid-based geometric operator. By systematically projecting a bounded, rotation-invariant hexagonal grid into a dynamically selected two-dimensional subspace, BTS achieves high-precision exploitation with near-zero computational overhead. This integration demonstrates that structured mathematical principles can effectively enhance metaheuristic architectures, providing an agile and structurally coherent solution for budget-constrained applications.
-
+A lightweight, plug-and-play geometric local refinement module inspired by mathematical spatial division. It uses a rotation-invariant hexagonal grid to perform high-precision local searches with near-zero overhead, seamlessly boosting the accuracy and stability of ZOA and other baseline algorithms.
+%  Paper:
+%  AmirAli Fatoorchi, Shahriar Mohammadi, Hodjat Hamidi
+%  Zahhak Optimization Algorithm: A Memetic Geometric Buzjani Tiling Strategy for Engineering and IoT with Wireless Sensor Network Validation
+%  Results in Engineering
+Please contact me if there are bugs in the code: amirali.fatoorchi@email.kntu.ac.ir or amirf97@gmail.com
