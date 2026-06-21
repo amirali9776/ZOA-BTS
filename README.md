@@ -16,4 +16,6 @@ A lightweight, plug-and-play geometric local refinement module inspired by mathe
 
 % DOI: https://doi.org/10.1016/j.rineng.2026.111596
 
+If you use this code in academic work, please cite the associated paper
+
 Please contact me if there are bugs in the code: amirali.fatoorchi@email.kntu.ac.ir or amirf97@gmail.com
